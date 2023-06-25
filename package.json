@@ -101,5 +101,11 @@
   },
   "repository": {
     "url": "https://github.com/dishait/tov-template"
+  },
+  "dependencies": {
+    "@galacean/engine": "^0.9.19",
+    "@galacean/engine-toolkit-controls": "^0.9.0",
+    "pug": "^3.0.2",
+    "terser": "^5.18.1"
   }
 }
